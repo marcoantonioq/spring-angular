@@ -26,6 +26,4 @@ api/.nb-gradle/
 api/build/
 api/!**/src/main/**/build/
 api/!**/src/test/**/build/
-api/
 api/.vscode/
-api/
