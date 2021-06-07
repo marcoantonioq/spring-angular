@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  height: auto;
+  align-items: center;
+  padding: 8px;
+
+  a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+
+  .logo {
+    max-width: 50px;
+  }
+
+  .title-group {
+    padding-left: 25px;
+
+    i {
+      padding-right: 5px;
+    }
+  }
+
+}
